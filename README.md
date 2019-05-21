@@ -12,7 +12,7 @@ Login to GCP console
 App deployed at http://35.195.138.121/sample/html
 
 ### Day in the life of a Cloud Native Developer (Tutorial)
-https://kccnceu19.sched.com/event/MPh0/tutorial-a-day-in-the-life-of-a-cloud-native-developer-randy-abernethy-rx-m-llc-limited-availability-first-come-first-served-basis
+https://kccnceu19.sched.com/event/MPh0/tutorial-a-day-in-the-life-of-a-cloud-native-developer-randy-abernethy-rx-m-llc-limited-availability-first-come-first-served-basis  
 Kubernetes, Prometheus, Envoy, Fluentd, gRPC, Containerd, Helm, Harbor and Telepresence
 
 IP 18.197.149.195
