@@ -1,5 +1,10 @@
 # kubecon-cloudnativecon-europe-2019
-Notes taken at Kubecon and Cloud Native Conference Barcelona May 2019
+Notes taken at AWS Container Day, Kubecon and Cloud Native Conference Barcelona May 2019
+
+## Day zero (Monday 20th May 2019)
+### AWS Container Day
+EKS Workshop, all instructions available at  
+https://www.eksworkshop.com
 
 ## Day one (Tuesday 21 May 2019)
 
